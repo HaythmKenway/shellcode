@@ -4,14 +4,22 @@
 <div class="flex">
   <nuxt-link class="text-white h-[50px] p-2 pt-3 border-[1px] border-gray-900 rounded-sm hover:border-[1px] cursor-pointer">Shopbox</nuxt-link>
   </div>
-  <div class="flex items-center justify-center">
+  <div class="flex-col items-center justify-center">
 	  <div class="text-[13px] text-gray-300 font-extrabold">
 		  <div>Delivery to John
 	  </div></div>
 	  <div class="text-[12px] text-white -mt-1.5 font-extrabold">
-		  <div>Tamilnadu</div></div>
+		  <div><Icon name="material-symbols:location-on-outline"/>Tamilnadu</div></div>
+  </div> </div>
 
+  <div class="flex grow items-center h-[45px] px-1">
+	  <div class="flex items-center justify-center bg-gray-100 border-r border-r-gray-300 font-extrabold text-[11px] text-gray-600 w-[60px] h-[40px] rounded-l-md cursor-pointer">
+		  <div class="pt-[3px]">
+			  All
+		  </div>
+	  </div>
   </div>
-</div></div>
+
+				</div>
 
 </template>
