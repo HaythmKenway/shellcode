@@ -1,8 +1,6 @@
 
 <template>
-	
-	<SignIn />
-	
+	<Navbar />	
 </template>
 <style>
 	*{

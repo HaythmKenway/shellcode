@@ -1,10 +1,10 @@
-package com.haythmkenway.shellcode;
+package com.haythmKenway.shellcode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShellcodeApplicationTests {
+class ServerApplicationTests {
 
 	@Test
 	void contextLoads() {

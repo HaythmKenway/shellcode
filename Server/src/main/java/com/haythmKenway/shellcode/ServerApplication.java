@@ -1,13 +1,13 @@
-package com.haythmkenway.shellcode;
+package com.haythmKenway.shellcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShellcodeApplication {
+public class ServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShellcodeApplication.class, args);
+		SpringApplication.run(ServerApplication.class, args);
 	}
 
 }
