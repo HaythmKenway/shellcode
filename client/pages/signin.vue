@@ -1,3 +1,5 @@
 <template>
-	<sign-in/>
+    <div>
+        <SignIn/>
+    </div>
 </template>
