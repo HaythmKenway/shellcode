@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "js-cookie": "^3.0.5",
     "vue-material-design-icons": "^5.2.0"
   }
 }
