@@ -1,0 +1,7 @@
+.Profile{
+  position: absolute;
+  top: 20;
+  right: -200px;
+  align-items:flex-end;
+  margin-right: 200px;
+}
